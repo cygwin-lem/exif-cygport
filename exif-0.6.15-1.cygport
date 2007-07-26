@@ -1,0 +1,5 @@
+DESCRIPTION="Command-line EXIF metadata parser"
+HOMEPAGE="http://libexif.sourceforge.net/"
+SRC_URI="mirror://sourceforge/libexif/${P}.tar.bz2"
+
+DIFF_EXCLUDES="auto-m4"
