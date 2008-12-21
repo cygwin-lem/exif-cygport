@@ -1,0 +1,10 @@
+--- origsrc/exif-0.6.17/configure.ac	2008-11-06 02:47:44.000000000 -0600
++++ src/exif-0.6.17/configure.ac	2008-12-20 22:53:33.944301400 -0600
+@@ -42,7 +42,6 @@
+ ALL_LINGUAS="da de es fr id nl pl sk sv vi zh_CN"
+ AM_GNU_GETTEXT_VERSION([0.14.1])
+ AM_GNU_GETTEXT([external])
+-AM_PO_SUBDIRS()
+ AM_ICONV()
+ GP_GETTEXT_FLAGS()
+ 

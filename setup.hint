@@ -1,5 +1,5 @@
 category: Graphics
-requires: cygwin libexif12 libiconv2 libintl8 libpopt0
+requires: cygwin libexif12 libintl8 libpopt0
 sdesc: "Command-line EXIF metadata parser"
 ldesc: "exif is a small command-line utility to show EXIF information
 hidden in JPEG files."
