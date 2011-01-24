@@ -2,5 +2,3 @@ DESCRIPTION="Command-line EXIF metadata parser"
 HOMEPAGE="http://libexif.sourceforge.net/"
 SRC_URI="mirror://sourceforge/libexif/${P}.tar.bz2"
 PATCH_URI="0.6.17-gettext017.patch"
-
-DIFF_EXCLUDES="auto-m4"
