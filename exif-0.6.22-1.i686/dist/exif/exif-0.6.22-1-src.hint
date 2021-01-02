@@ -1,0 +1,8 @@
+category: Graphics
+build-depends: cygport   pkg-config  gettext-devel  libexif-devel  libintl-devel  libpopt-devel
+sdesc: "Command-line EXIF metadata parser"
+ldesc: "exif is a small command-line utility to show EXIF information
+hidden in JPEG files."
+skip:
+test:
+homepage: https://libexif.github.io/

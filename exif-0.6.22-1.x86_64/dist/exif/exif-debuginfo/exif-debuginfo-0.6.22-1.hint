@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: exif
+sdesc: "Debug info for exif"
+ldesc: "This package contains files necessary for debugging the
+exif package with gdb."
+test:
